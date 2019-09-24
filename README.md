@@ -1,2 +1,3 @@
 # Avionics
-Yeah, we code ¯\_(ツ)_/¯
+Yeah, we code 
+¯\\_(ツ)_/¯
